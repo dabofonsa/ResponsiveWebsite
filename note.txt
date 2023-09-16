@@ -1,0 +1,30 @@
+w3school
+-Bootstrap 3: copie des MAXCDN
+ 
+-fontawesome
+
+jquery ripple effect sirxemic github
+
+typed.js github
+
+magnific popup
+
+owl carousel
+
+Bootstrap: components: carousel
+
+Bootstrap: components: collapse
+
+counter up jquery plugin
+
+gmail 
+
+jquery smooth scroll npm
+copier le contenu de ce lien dans un fichier js:
+'https://raw.githubusercontent.com/kswedberg/jquery-smooth-scroll/master/jquery.smooth-scroll.js'
+
+
+jquery easing in npm
+
+POUR RENDRE RESPONSIVE:
+bootstrap customise and download -> Grid system :1199px puis telecharger
